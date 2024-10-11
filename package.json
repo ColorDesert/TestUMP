@@ -1,13 +1,13 @@
 {
-  "name": "com.yourusername.mypackage",
+  "name": "com.elex.epsdk",
   "version": "1.0.0",
-  "displayName": "My Package",
+  "displayName": "EPSDK",
   "description": "A description of my package.",
   "unity": "2020.3",
   "keywords": [
     "unity",
-    "package",
-    "example"
+    "ElexSDK",
+    "EpVersion"
   ],
   "author": {
     "name": "Your Name",

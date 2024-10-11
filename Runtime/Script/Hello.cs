@@ -1,4 +1,3 @@
-using Open.Tools;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -10,7 +9,8 @@ namespace Script
         void Start()
         {
             Debug.Log("Hello 脚本被加载了");
-            Debug.Log(UnityTools.FormatMoney(new decimal(12.88),2,"HK$"));       }
+            //Debug.Log(UnityTools.FormatMoney(new decimal(12.88),2,"HK$"));
+        }
 
         // // Update is called once per frame
         // void Update()
@@ -21,6 +21,7 @@ namespace Script
         {
             Debug.Log("第一个游戏场景被销毁");
         }
+
         public void OnTestClick()
         {
             Debug.Log("按钮被点击了！");
