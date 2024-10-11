@@ -1,0 +1,18 @@
+{
+  "name": "com.yourusername.mypackage",
+  "version": "1.0.0",
+  "displayName": "My Package",
+  "description": "A description of my package.",
+  "unity": "2020.3",
+  "keywords": [
+    "unity",
+    "package",
+    "example"
+  ],
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com",
+    "url": "https://github.com/yourusername"
+  },
+  "dependencies": {}
+}
