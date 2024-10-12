@@ -1,6 +1,6 @@
 {
   "name": "com.elex.epsdk",
-  "version": "1.0.2-alpha",
+  "version": "1.0.3-alpha",
   "displayName": "EPSDK",
   "description": "A description of my package.",
   "unity": "2020.3",

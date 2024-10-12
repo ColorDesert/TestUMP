@@ -1,13 +1,9 @@
 {
-    "name": "TestAssembly",
+    "name": "Panda",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
-    "excludePlatforms": [
-        "Android",
-        "Editor",
-        "iOS"
-    ],
+    "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
